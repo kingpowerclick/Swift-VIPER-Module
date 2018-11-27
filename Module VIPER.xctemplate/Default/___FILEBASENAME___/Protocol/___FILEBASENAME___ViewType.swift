@@ -12,6 +12,5 @@ protocol ___VARIABLE_productName:identifier___ViewType: ViewType
 {
     var presenter: ___VARIABLE_productName:identifier___PresenterType { get }
     
-    init(
-        presenter: ___VARIABLE_productName:identifier___PresenterType)
+    init(presenter: ___VARIABLE_productName:identifier___PresenterType)
 }

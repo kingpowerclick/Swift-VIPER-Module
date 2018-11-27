@@ -16,8 +16,7 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController, ___
     
     // MARK: - Initializer
     
-    required init(
-        presenter: ___VARIABLE_productName:identifier___PresenterType)
+    required init(presenter: ___VARIABLE_productName:identifier___PresenterType)
     {
         self.presenter = presenter
         

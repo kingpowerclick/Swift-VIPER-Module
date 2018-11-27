@@ -16,8 +16,7 @@ class ___VARIABLE_productName:identifier___Presenter: ___VARIABLE_productName:id
     
     // MARK: - Initializer
     
-    required init(
-        router: ___VARIABLE_productName:identifier___RouterType)
+    required init(router: ___VARIABLE_productName:identifier___RouterType)
     {
         self.router = router
     }

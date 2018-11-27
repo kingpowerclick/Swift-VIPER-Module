@@ -12,6 +12,5 @@ protocol ___VARIABLE_productName:identifier___PresenterType: PresenterType
 {
     var router: ___VARIABLE_productName:identifier___RouterType { get }
     
-    init(
-        router: ___VARIABLE_productName:identifier___RouterType)
+    init(router: ___VARIABLE_productName:identifier___RouterType)
 }
